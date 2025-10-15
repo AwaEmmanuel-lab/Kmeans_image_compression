@@ -78,6 +78,6 @@ This reduces the number of unique colors while preserving the overall look of th
 **Awa**  
 *Machine Learning & Computer Vision Enthusiast*  
 📧 Contact: [eawaawa279@gmail.com]  
-📦 GitHub: [My LinkedIn profile](https://www.linkedin.com/in/emmanuel-arua-418aa6386/)
+   LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/emmanuel-arua-418aa6386/)
 
 ---
