@@ -65,7 +65,7 @@ This reduces the number of unique colors while preserving the overall look of th
 
 ---
 
-## 🧩 Future Improvements
+## Future Improvements
 
 - Add automatic optimal `k` selection using the **elbow method**
 - Implement batch image compression
@@ -73,10 +73,10 @@ This reduces the number of unique colors while preserving the overall look of th
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Awa**  
-*Machine Learning & Computer Vision Enthusiast*  
+*Machine Learning Enthusiast*  
 📧 Contact: [eawaawa279@gmail.com]  
    LinkedIn: [My LinkedIn profile](https://www.linkedin.com/in/emmanuel-arua-418aa6386/)
 
